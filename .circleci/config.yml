@@ -25,6 +25,7 @@ jobs:
           paths:
             - workspace
 
+
   deploy:
     working_directory: /opt/workspace
     docker:
