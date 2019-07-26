@@ -14,7 +14,6 @@ mv test.md _sidebar.md
 
 cd ..
 
-# docsify serve docs
 
 
 
