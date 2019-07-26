@@ -7,7 +7,4 @@ data class PostDelay(val handler: Handler, val runnable: Runnable) {
         handler.removeCallbacks(runnable)
     }
 
-    fun tester() {
-        print("Hello")
-    }
 }
